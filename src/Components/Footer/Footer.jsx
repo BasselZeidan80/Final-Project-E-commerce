@@ -45,10 +45,7 @@ export default function Footer() {
 
             </div>
           </div>
-          <div className="paymentArea d-flex  align-items-center">
-              
-             
-          </div>
+       
         </div>
       </div>
     </>
